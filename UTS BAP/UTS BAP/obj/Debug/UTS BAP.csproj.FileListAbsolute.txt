@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UTS BAP\UTS BAP\bin\Debug\UTS BAP.exe.config
+C:\Users\User\source\repos\UTS BAP\UTS BAP\bin\Debug\UTS BAP.exe
+C:\Users\User\source\repos\UTS BAP\UTS BAP\bin\Debug\UTS BAP.pdb
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS BAP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS_BAP.Form1.resources
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS_BAP.Properties.Resources.resources
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS BAP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS BAP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS BAP.exe
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS BAP.pdb
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS_BAP.Properties.Form2.resources
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS_BAP.Properties.Form1.resources
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS_BAP.Properties.Form3.resources
+C:\Users\User\source\repos\UTS BAP\UTS BAP\obj\Debug\UTS_BAP.Properties.Fininshbtn.resources
